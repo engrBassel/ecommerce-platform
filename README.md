@@ -22,4 +22,6 @@ I'm excited to share one of the key projects I built during my journey in the Fr
 
 This project was a significant milestone in improving my front-end development skills!
 
+- Demo: https://engrbassel.github.io/ecommerce-platform/
+
 ![Homepage](https://github.com/user-attachments/assets/12a48b92-2373-4a82-b1fd-b6209355e10f)
